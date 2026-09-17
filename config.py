@@ -1,0 +1,10 @@
+TOKEN           = "8619871111:AAGLdfPCbLsSGCiTEmmbPxqnlciyzEQlpsY"
+CHAT_ID         = 1284065227
+CHECK_INTERVAL  = 5
+MIN_CONFIDENCE  = 60
+MIN_SCORE       = 8
+SYMBOL          = "XAUUSD"
+TIMEFRAME       = "M5"
+SL_PIPS         = 15
+TP_PIPS         = 30
+PIP_VALUE       = 0.1
